@@ -26,19 +26,21 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the app:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/bLo7LwL.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [EzGIF.com](https://ezgif.com/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- This is the first time I learnt to build an app so it took time to familiarize myself with Swift and Xcode.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Loan Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
